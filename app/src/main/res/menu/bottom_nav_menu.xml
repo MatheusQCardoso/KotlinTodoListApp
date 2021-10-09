@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/bottom_bar_item_user"
+        android:title="@string/bottom_bar_item_user_title"
+        android:icon="@drawable/ic_bottom_bar_user"/>
+    <item
+        android:id="@+id/bottom_bar_item_lists"
+        android:title="@string/bottom_bar_item_lists_title"
+        android:icon="@drawable/ic_bottom_bar_lists"/>
+</menu>
